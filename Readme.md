@@ -1,7 +1,9 @@
 # Todo
 
-
+![](public/screenshots/app.png)
 
 ### How to install
-- git clone
+
+- clone
 - npm install
+- npm run dev
